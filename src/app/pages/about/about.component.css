@@ -1,0 +1,29 @@
+.about{
+    background-color: rgb(170, 190, 207);
+    height: 1200px;
+    border-radius: 10px;
+}
+.aboutHead{
+    padding-top: 100px;
+    color: white;
+    font-weight: 1000;
+}
+.aboutContent{
+    width: 500px;
+    margin-left: 290px;
+}
+img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+.directorImage{
+    margin-top: 100px;
+}
+.message{
+    padding-top: 100px;
+    margin-left: 100px;
+}
+.messageP{
+    margin-right: 50px
+}
