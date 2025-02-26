@@ -2,3 +2,10 @@ section{
     background-color: rgb(170, 190, 207);
     border-radius: 10px;
 }
+.mapp{
+    width: 400px;
+    height: 400px;
+}
+/* .conrtactForm{
+    margin-top: -400px;
+} */
