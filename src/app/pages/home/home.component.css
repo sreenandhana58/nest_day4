@@ -1,5 +1,5 @@
 .home{
-    background-color: rgb(170, 190, 207);
+    background-color: white;
     height: 800px;
     border-radius: 10px;
 }
@@ -11,12 +11,12 @@
 }
 .homeP{
     margin-top: -300px;
-    color: white;
+    color: black;
     font-weight: 1000;
 }
 .homeLower{
     margin-top: 300px;
-    color: white;
+    color:rgb(0, 0, 90);
 }
 .homeLowerLeft{
     font-weight: 1000;
